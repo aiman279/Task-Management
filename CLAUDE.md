@@ -23,7 +23,7 @@ React 19, TypeScript ~5.8, Vite 7, Tailwind CSS 4, React Router 7, TanStack Quer
 - Follow existing patterns; do not add dependencies without approval.
 
 ## Deployment
-No deployment config in the repo. Do not deploy without approval.
+No deployment config in the repo. Deploy only when the owner explicitly asks; that request counts as approval.
 
 ## Repository and secrets
 Own Git repo, remote `origin` on GitHub. Uses Firebase: never read, print, or commit Firebase credentials or `.env` files.
